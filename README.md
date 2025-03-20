@@ -1,5 +1,7 @@
 # Quizz App
 
+# For Live Demo: https://noumanahmed01.github.io/Quiz-App/
+
 A simple and responsive web project built using **HTML, CSS, and JavaScript**. This project showcases clean design, interactive UI elements, and smooth animations.
 
 ## Features
